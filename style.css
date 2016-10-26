@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Origami Child
+ Theme URI:    http://krishengreenwell.com/origami-child/
+ Description:  Origami Child Theme
+ Author:       Krishen Greenwell
+ Author URI:   http://krishengreenwell.com
+ Template:     origami
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  origami-child
+*/
+
+img {
+     display: block; margin-left: auto; margin-right: auto
+}
